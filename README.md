@@ -2,7 +2,7 @@ Description
 ===========
 
 SOCKS protocol version 5 server and client implementations for node.js
-
+TODO: Fix Security deps
 
 Requirements
 ============
